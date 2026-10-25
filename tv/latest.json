@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android.tv",
-  "versionCode": 31,
-  "versionName": "0.1.0-tv-demo1-r16",
+  "versionCode": 32,
+  "versionName": "0.1.0-tv-demo1-r17",
   "minSdk": 26,
-  "bytes": 13705741,
-  "sha256": "c6b5649952092c5700871765a3c9fc084f013e388a83683f5aa49527912f05c1",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r16-v31.apk",
-  "notes": "Actualizaciones desde Ajustes y aviso automático al abrir. Conserva las radios y mejoras de r15."
+  "bytes": 13903230,
+  "sha256": "c07cf8084a169bf50ce16dede5a7490c4a1bc96cb5c7724fde77fe2033696173",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r17.apk",
+  "notes": "Siete estilos de ecualizador, espectro sin centrado y logo animado. Video oficial HD de La 100 con controles discretos y OK para pausar. Navegación con mando, inicio con sugerencias y podcasts. Crintsoft incluido en letras automáticas."
 }
