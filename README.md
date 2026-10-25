@@ -4,13 +4,19 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Android TV
 
-[Descargar versión r18](tv/ChainReactionMusic-TV-0.1.0-demo1-r18-v34.apk)
+[Descargar versión r19](tv/ChainReactionMusic-TV-0.1.0-demo1-r19-v35.apk)
 
 Instalar sobre la versión anterior, sin desinstalar, para conservar favoritos y ajustes. Android puede pedir autorizar instalaciones desde esta aplicación. En r16: Ajustes → Actualizaciones permite comprobar nuevas versiones; la comprobación al abrir se limita a una vez por día y se puede desactivar. La descarga requiere elegir Actualizar ahora y la instalación requiere confirmación de Android.
 
 El archivo `tv/latest.json` anuncia la versión disponible con tamaño, SHA256 y enlace HTTPS. La aplicación verifica también identidad, versión y firma del APK. No contiene publicidad ni claves de acceso al repositorio privado.
 
-TV versionCode34, Android8 o posterior. Versión de prueba; validar funcionamiento en cada televisor. Las futuras versiones deben conservar el nombre de paquete y la misma clave de firma. Publicar primero el APK y actualizar el manifiesto al final.
+TV versionCode35, Android8 o posterior. Versión de prueba; validar funcionamiento en cada televisor. Las futuras versiones deben conservar el nombre de paquete y la misma clave de firma. Publicar primero el APK y actualizar el manifiesto al final.
+
+## Cambios de r19
+
+Letras sincronizadas con desplazamiento automático y salida al finalizar la cola. Mando: corazón y opciones accesibles, foco conservado por fila. Inicio con brillo suave, Historial y sugerencias según escuchas y Me gusta. Cranberries corregido. Explorar, discos y playlists continúan con los temas siguientes de la lista cargada. Letras argentinas de CMTV como respaldo sin tiempos.
+
+134 pruebas por variante, lint sin errores y recorrido nativo de letras, cola y mando. Televisor físico pendiente. Recomendador sencillo local, con catálogo público; no es el algoritmo de Google. CMTV se consulta con límites de tiempo y páginas; no garantiza cobertura completa.
 
 ## Cambios de r18
 

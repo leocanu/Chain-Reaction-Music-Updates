@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android.tv",
-  "versionCode": 34,
-  "versionName": "0.1.0-tv-demo1-r18",
+  "versionCode": 35,
+  "versionName": "0.1.0-tv-demo1-r19",
   "minSdk": 26,
-  "bytes": 13933321,
-  "sha256": "49a264e3ab7ae1745a9a8dcb0f9ac1845668a8a95690fccacec425b436f1d6c0",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r18-v34.apk",
-  "notes": "Portadas sin recuadros en Inicio, listas, radios y reproductor. Se conserva el foco visible del mando. Historial local en Biblioteca para canciones, radios y podcasts, sin modificar Me gusta ni playlists."
+  "bytes": 13951717,
+  "sha256": "18b2836ea12dba04469399ac7efa670a019da6ef861602951c69542ea6013dc1",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r19-v35.apk",
+  "notes": "Letras sincronizadas con desplazamiento automático y salida al finalizar la cola. Mando: corazón y opciones accesibles, foco conservado por fila. Inicio con brillo suave, Historial y sugerencias según escuchas y Me gusta. Cranberries corregido. Explorar, discos y playlists continúan con los temas siguientes de la lista cargada. Letras argentinas de CMTV como respaldo sin tiempos."
 }
