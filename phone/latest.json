@@ -1,0 +1,10 @@
+{
+  "packageName": "com.chainreactionmusic.android",
+  "versionCode": 14,
+  "versionName": "0.1.0-phone-demo1-r11",
+  "minSdk": 26,
+  "bytes": 14413684,
+  "sha256": "692875075b86ef327593dca008b08fddff04a0b16fe2f1ac43de9c7e11b173e6",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-demo1-r11-v14.apk",
+  "notes": "Modo día y tono corregidos con skins, con prueba física en ZTE. Guardar/cargar perfiles locales de preferencias. Interfaz sin contornos permanentes y cola simplificada. Primer canal móvil de actualizaciones; r9 y versiones anteriores necesitan instalar este APK una vez manualmente. Se conservan datos al instalar por reemplazo."
+}
