@@ -34,8 +34,12 @@ Probado en emulador Android TV API34; la respuesta y la decodificación pueden v
 
 ## Android celular
 
-[Descargar versión r11](phone/ChainReactionMusic-Phone-0.1.0-demo1-r11-v14.apk)
+[Descargar versión r12](phone/ChainReactionMusic-Phone-0.1.0-demo1-r12-v15.apk)
 
 Primera versión con actualizador móvil. Versiones anteriores necesitan este primer APK manual. Instalar sobre la anterior sin desinstalar, para conservar biblioteca, skins y preferencias. Después: Ajustes → Actualizaciones → Buscar actualización ahora. Android exige confirmar cada instalación.
 
 Modo día, tono con imagen personalizada y perfiles de preferencias probados físicamente en ZTE Blade A54. 140 pruebas y lint sin errores. Navegación TV y cambio real de calidad de video no forman parte de esa prueba física. Canal independiente phone/latest.json, paquete com.chainreactionmusic.android y misma firma anterior. La versión TV publicada no cambia.
+
+### Celular r12
+
+Campo de búsqueda y lupa visibles en Inicio; Skins en el menú inferior. Probado en ZTE: búsqueda real, regreso a Inicio, selector de skins y conservación de datos. La versión TV publicada no cambia.
