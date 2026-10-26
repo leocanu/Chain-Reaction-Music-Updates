@@ -20,17 +20,23 @@ checksum=out/'SHA256SUMS.txt';checksum.write_text(meta['sha256']+'  '+meta['file
 notes=out/'release-notes.md';notes.write_text(meta['notes'])
 def gh(*args,check=True,capture=False):
  return subprocess.run(['gh',*args],check=check,capture_output=capture,text=True)
-lookup=gh('api','repos/'+os.environ['GH_REPO']+'/releases/tags/'+meta['tag'],check=False,capture=True)
-if lookup.returncode==0:
- release=json.loads(lookup.stdout)
- if not release['draft']:
-  existing=next((a for a in release['assets'] if a['name']==meta['filename']),None)
-  assert existing and existing['size']==size and existing.get('digest')=='sha256:'+meta['sha256'],'Existing public release differs; refusing replacement'
-  print(release['html_url']);raise SystemExit(0)
-else:
+def find_release():
+ releases=json.loads(gh('api','repos/'+os.environ['GH_REPO']+'/releases?per_page=100',capture=True).stdout)
+ return next((r for r in releases if r['tag_name']==meta['tag']),None)
+release=find_release()
+if release and not release['draft']:
+ existing=next((a for a in release['assets'] if a['name']==meta['filename']),None)
+ assert existing and existing['size']==size and existing.get('digest')=='sha256:'+meta['sha256'],'Existing public release differs; refusing replacement'
+ print(release['html_url']);raise SystemExit(0)
+if not release:
  gh('release','create',meta['tag'],'--title',meta['title'],'--notes-file',str(notes),'--target',os.environ['DEFAULT_BRANCH'],'--draft','--prerelease')
-gh('release','upload',meta['tag'],str(installer),str(checksum),'--clobber')
-release=json.loads(gh('api','repos/'+os.environ['GH_REPO']+'/releases/tags/'+meta['tag'],capture=True).stdout)
+ release=find_release()
+assert release and release['draft'],'Expected a draft release'
+asset=next((a for a in release['assets'] if a['name']==meta['filename']),None)
+if not asset or asset['size']!=size or asset.get('digest')!='sha256:'+meta['sha256']:
+ gh('release','upload',meta['tag'],str(installer),'--clobber')
+gh('release','upload',meta['tag'],str(checksum),'--clobber')
+release=json.loads(gh('api','repos/'+os.environ['GH_REPO']+'/releases/'+str(release['id']),capture=True).stdout)
 asset=next(a for a in release['assets'] if a['name']==meta['filename'])
 assert asset['size']==size and asset.get('digest')=='sha256:'+meta['sha256'],'Remote uploaded digest mismatch'
 gh('release','edit',meta['tag'],'--draft=false','--prerelease','--latest=false')
