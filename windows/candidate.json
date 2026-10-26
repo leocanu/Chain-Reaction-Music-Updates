@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows-x64",
+  "version": "0.1.19",
+  "channel": "candidate",
+  "tag": "windows-v0.1.19-rc1",
+  "installerUrl": "https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.19-rc1/ChainReactionMusic-Setup-0.1.19.exe",
+  "bytes": 459599712,
+  "sha256": "a79fd384628bfdaa1e48ea256a57589962bf7a674a6fefa1b56ed5560ad95ab1"
+}

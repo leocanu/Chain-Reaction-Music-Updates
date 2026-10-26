@@ -2,6 +2,18 @@
 
 Repositorio público de distribución. No contiene el código privado del proyecto ni credenciales.
 
+## Windows
+
+[Descargar candidata Windows 0.1.19](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.19-rc1/ChainReactionMusic-Setup-0.1.19.exe) · [Notas de la versión](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/tag/windows-v0.1.19-rc1)
+
+Instalador para Windows 10/11 de 64 bits. Cerrar la app y actualizar sobre la misma carpeta para conservar los datos. Se recomienda exportar primero el respaldo personal.
+
+Incluye galería de skins compartida con Android, fondo y acento en el reproductor existente, logo grande con Reverberación expansiva y cambio de animación al tocar, menos marcos y las mejoras previas de radios e indicador de carga.
+
+Es una **candidata de prueba**, no una versión declarada estable. 355 pruebas Python, 125 JavaScript y revisión WebView2 aislada. Pendientes: instalación en otra PC, reproducción prolongada y Google/Drive con cuenta real. Google Windows requiere configurar localmente un cliente de escritorio y dar consentimiento; los respaldos de Windows y Android se mantienen separados. El JSON de Google y los datos del usuario no se distribuyen aquí.
+
+El archivo `windows/candidate.json` contiene versión, tamaño, SHA256 y enlace al instalador completo publicado en Releases.
+
 ## Android TV
 
 [Descargar versión r19](tv/ChainReactionMusic-TV-0.1.0-demo1-r19-v35.apk)
