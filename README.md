@@ -4,13 +4,13 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Windows
 
-[Descargar candidata Windows 0.1.24](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.24-rc1/ChainReactionMusic-Setup-0.1.24.exe) | [Notas de la versión](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/tag/windows-v0.1.24-rc1)
+[Descargar candidata Windows 0.1.27](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.27-rc1/ChainReactionMusic-Setup-0.1.27.exe) | [Notas de la version](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/tag/windows-v0.1.27-rc1)
 
 Instalador para Windows 10/11 de 64 bits. Cerrar la app y actualizar sobre la misma carpeta para conservar los datos. Se recomienda exportar primero el respaldo personal.
 
 Incluye Acerca del proyecto con relatos rotativos, etiquetas discretas para identificar las ondas al pasar el mouse y la corrección de empaquetado de proxy_tools. Windows ya no muestra skins de imágenes del repositorio; las skins siguen disponibles en Android celular. Inno Setup compila el instalador e incluye el bootstrapper oficial firmado de WebView2.
 
-Es una **candidata de prueba**, no una versión declarada estable. 389 pruebas Python aprobadas (1 omitida), revisión de sintaxis JavaScript y compilación del instalador. Pendientes: instalación y reproducción manual en otra PC. El archivo windows/candidate.json contiene versión, tamaño, SHA256 y enlace al instalador.
+Es una **candidata de prueba**, no una version declarada estable. 395 pruebas Python aprobadas (1 omitida), sintaxis JavaScript y compilacion del instalador verificadas. Instalada y abierta desde el acceso directo en otra PC; backend 0.1.27 responde correctamente. El archivo windows/candidate.json contiene version, tamano, SHA256 y enlace al instalador.
 
 ## Android TV
 
