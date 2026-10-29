@@ -1,0 +1,101 @@
+{
+    "version":  "0.1.25",
+    "title":  "Windows 0.1.25 (candidata)",
+    "tag":  "windows-v0.1.25-rc1",
+    "filename":  "ChainReactionMusic-Setup-0.1.25.exe",
+    "parts":  [
+                  {
+                      "sha256":  "953f9068e7696ca06e1ea10014f167a50dbfb4acf417df6da64e67e1b0617bcf",
+                      "file":  "part-000.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "f592bc87157e829bd77b525760fa5ee7eb503740a823a3cce27d0cbf54561d52",
+                      "file":  "part-001.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "3ecc9f872b627cf4c91a7ef7036beb889fb222e1ec583a68358148979ea9f09c",
+                      "file":  "part-002.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "69d57d7bf7ef4ef11c1f9cbd9cc633728eb78ce26e2eb1f445c0e8f9798d28f7",
+                      "file":  "part-003.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "37d712d325922bdd34765c293cbf6a79114f1e628d77364d79485f5befa54425",
+                      "file":  "part-004.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "668fba4bff58003d944f89c70f9ef26889d399f2c1aa262a9d58854f0d53c3ab",
+                      "file":  "part-005.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "01d66a78834339c1e42d0a7e482f58fd27c1ab067e7c839175eefb2df3a8449f",
+                      "file":  "part-006.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "0b8deb237abd7d83768887e1f2aebbff439e688c676052470cf1f877e36cebab",
+                      "file":  "part-007.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "4d3ac46440ccdc1c1b8a358a5effb148453c4abe1944e6ca8bb433bb44cad713",
+                      "file":  "part-008.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "84ae631f55ab829a549fb3dd6f86726d8816000fb664c584244ba14bac7b06a7",
+                      "file":  "part-009.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "1fae5e5dd0562e8eefd25ed49cb3beff4ce2d358a1050d038f137d23e14d288e",
+                      "file":  "part-010.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "125cd6336fc25aee747600f265e7feac58eb54612d49493fc30d1c1003496764",
+                      "file":  "part-011.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "af2cdc213bf0b9599c7dbae2f4bf9099b73f5e7b783262c2c7f04f29e52befa7",
+                      "file":  "part-012.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "e830a7fbe5d3493eac27b961fbbb7fdf9a2e3502bb7afcbdeca6bcf25ba90267",
+                      "file":  "part-013.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "735864f6d969a12d6c5c7f537c12caa889d89ef08ba8d9f0b7e208db44cce3ae",
+                      "file":  "part-014.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "c8a0ec56c11d8dbdbdd61ea78e56e200e3250f03abdfa113c513bdd1cdbf4635",
+                      "file":  "part-015.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "a0bf7d1ba146ffe071f6dbedb1bfc8fbe8b3bd0e92c9af3998add1db52d63348",
+                      "file":  "part-016.bin",
+                      "bytes":  8388608
+                  },
+                  {
+                      "sha256":  "3efbaa6d2b7c7d4171e83a7f016dc57cca84cd3f9cb8546f408ce0d5c067cd92",
+                      "file":  "part-017.bin",
+                      "bytes":  4374371
+                  }
+              ],
+    "notes":  "Candidata de prueba Windows 0.1.25.\n\nCorrige el arranque cuando queda activo un backend de una versión anterior y fija la carga del código incluido en la instalación. En Windows, el menú lateral ya no muestra las skins de imágenes del repositorio; el selector Skin del reproductor se mantiene. La sección Ondas ahora es About e incluye diez textos aleatorios, el año 2026 y el logo animado.\n\nValidación: 391 pruebas Python (1 omitida), 128 pruebas JavaScript, sintaxis JavaScript comprobada y compilación con Inno Setup 6.7.3. Instalar y confirmar visualmente en otra PC antes de declararla estable.",
+    "bytes":  146980707,
+    "sha256":  "ba25798d8fbaab3ccd16ce49ee87c167ee6a5f2ec0e0a8ace6c677b3c81fe90e"
+}
