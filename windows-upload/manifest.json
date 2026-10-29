@@ -1,101 +1,101 @@
 {
-    "version":  "0.1.26",
-    "title":  "Windows 0.1.26 (candidata)",
-    "tag":  "windows-v0.1.26-rc1",
-    "filename":  "ChainReactionMusic-Setup-0.1.26.exe",
+    "version":  "0.1.27",
+    "title":  "Windows 0.1.27 (candidata)",
+    "tag":  "windows-v0.1.27-rc1",
+    "filename":  "ChainReactionMusic-Setup-0.1.27.exe",
     "parts":  [
                   {
-                      "sha256":  "b9f24521a458b0015482c455f58f5bce545cfc36148f5301a38ed3d16c62c0b7",
+                      "sha256":  "d096486e17a07a76950c1435c1f7228da92cfab75c4b5c39b9c7ec939cd6b120",
                       "file":  "part-000.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "ff5c34648d5fef4bbcce06d7d28aa19dd62c0de4f86aa78623a730cfb8c7341c",
+                      "sha256":  "78f1ad290594b1fddb6fdef621744a1181be125d996a64d8250e66784b9382fd",
                       "file":  "part-001.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "05d2750090d7d95cc65070e9fa2c4de935740741ca10cc6bf7aeae5e6b5a7635",
+                      "sha256":  "7c2845f02c439a888f21fe97d66f6a1fc852bc9c92ed31a232fd6a2054824637",
                       "file":  "part-002.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "cdc5db2537fcfeb39c9dc29450a9f3663f04e5c040243f53696f34ce9253e3c2",
+                      "sha256":  "0c0fd68a74749677013732119281653f08b600d34dd6504c6977466792a50cab",
                       "file":  "part-003.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "4e7bd5c039ef0945ada20bf537f761bcf109d2cd24627f3d4919caa3b80b2157",
+                      "sha256":  "f20413bb93cc1d243cb7d725e1e46f81171a2d3aa57d61ed0e9e6e83a9f1be21",
                       "file":  "part-004.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "b0b2cd26803ace75ec59ac14bf7cef902a4e1901d3df3f7b411d1eb7363c76dc",
+                      "sha256":  "13f7b7e6bff7c062c34310fd913c94621c77e22c9625c5882a150cc84a6840bb",
                       "file":  "part-005.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "4956080b507e7975ce7bd968d9999827aaa0400ff3aa3a615f947ec2a086a304",
+                      "sha256":  "8195d10560bc57d490e4b0ffcf0366e9e7e00aa9db07148b94be78c1d9b68988",
                       "file":  "part-006.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "5d880d032a869a8140e4b5f47ab40fbdead552adc0774e37d4f18d5b05860ed2",
+                      "sha256":  "c8d7e7ab3439b50657c6d33fb5d72e649f770dbb5bc850ce9d3d0a268ce8582e",
                       "file":  "part-007.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "7a22e67b7e30b704312d90cd6c0f8c2cd6b40b3ff3558046708c4faff6a9dcfc",
+                      "sha256":  "ba71c879dbae2d9c075fb4a60a9165a4a0df13b86df808f04250385b6df282e6",
                       "file":  "part-008.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "8443456436e97802d179c3f90bb25db61695bcc430ba24b5dd5cd0b6bc43f3a3",
+                      "sha256":  "dcac4e1e0693edd686f672f01bbac119c32fc43d4c65e028350c3547127828b8",
                       "file":  "part-009.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "00e1f0a85302e667633a819b1105821db2de44ee86ea0afba72e40be04d45897",
+                      "sha256":  "b7505d347f9b52ce1ecb4e247f764e373c7bfa77b0adbb3614462e3c71a17765",
                       "file":  "part-010.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "efb703608dd2303944c2fe1399397971cb0f8762c6c4f9fd2c751ad6ec85aad8",
+                      "sha256":  "811d67dc266fa32de0d06d2da35fe9e2bf5ae0a795b1ea6f989b7eac9e4c5ee4",
                       "file":  "part-011.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "365d024e84c4a54dc43db8bd88794dd6e1e22facb197d940b63dfc041ff64060",
+                      "sha256":  "e215278012bf2236425c756d1b5d7bc22b549c4d27e89373eaa755daa107d5d7",
                       "file":  "part-012.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "21e72e3f469f19d7a4e7305f737b424f7200525bdae40c186ad13a8a7523d9f7",
+                      "sha256":  "4d11d58956f542c1df3aa07f63539f191e45883b516452aff157d6cfffcd2edd",
                       "file":  "part-013.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "6177c5e0e1228d761cdc4e6d86f258ad4826e8394400efcf8551ec90631ad76e",
+                      "sha256":  "92c6c86516c4367463d60be2d4e71348d4d73474a9c1f57e37d2f665e1defaf4",
                       "file":  "part-014.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "4c562e01387a0d85002ca3d81cd9e459a3bb6f65c713e2abfd1d88eadc293223",
+                      "sha256":  "70107c6b042a32e2ea2faa0f38aefa95d27deb4a2fe28325d4f4e38108ca9882",
                       "file":  "part-015.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "6a5e3cebb87bf7cdc8fec8f16468b013a5f9aac6ca8cc37a13bf7c135757a6f7",
+                      "sha256":  "2b21fb59ae2bc293b4f250f6addbe30250c218ec93e5cc62dcb2248be521b6b4",
                       "file":  "part-016.bin",
                       "bytes":  8388608
                   },
                   {
-                      "sha256":  "9d1566e7fa2c5f591c0c292c21b19e27f77446f29a207bc62761d75829612d7f",
+                      "sha256":  "c2d1b874fc5cfecc0d4d131f2dea8f6679f99f9685c3df28642f91cdf6421bf9",
                       "file":  "part-017.bin",
-                      "bytes":  4370678
+                      "bytes":  4388664
                   }
               ],
-    "notes":  "Candidata de prueba Windows 0.1.26.\r\n\r\nCorrige la actualización que conservaba un motor antiguo y el empaquetado que dejaba fuera proxy_tools o metadata de versión desfasada. Limpia la salida antes de compilar, sincroniza metadata, incluye el backend actual y elimina el motor lateral heredado durante la instalación. El menú lateral de Windows sigue sin las skins de imágenes; el selector Skin del reproductor se mantiene. Ondas se llama About e incluye diez textos, año 2026 y logo animado.\r\n\r\nValidación: 394 pruebas Python aprobadas, 1 omitida, 60 subpruebas; backend congelado responde 0.1.26 y status ok; compilación Inno Setup 6.7.3. Instalación y apertura desde el acceso directo en ESLOQUEHAY en curso.",
-    "bytes":  146977014,
-    "sha256":  "13665605e480029e0bad8f110f9e6201a41fb781a8e47b72c5a6591de19e6fde"
+    "notes":  "Candidata de prueba Windows 0.1.27.\r\n\r\nCorrige el inicio cuando no existe motor spotDL externo: ya no exporta CRM_ENGINE_ROOT con una ruta ausente. Conserva la limpieza de builds, metadata sincronizada, proxy_tools incluido y elimina motores laterales heredados al actualizar. Windows sigue sin galería de skins en el menú lateral, mantiene el selector Skin del reproductor y ofrece la sección About con relatos, año 2026 y logo animado.\r\n\r\nValidación: 395 pruebas Python aprobadas, 1 omitida, 60 subpruebas; prueba unitaria del runtime ausente; backend congelado responde 0.1.27 y status ok; Inno Setup 6.7.3. Instalación manual en ESLOQUEHAY pendiente.",
+    "bytes":  146995000,
+    "sha256":  "d7d0fd0a472ad784bbd82368ae1e9d645512a31efd31ca8dabb9b7c503e916d4"
 }
