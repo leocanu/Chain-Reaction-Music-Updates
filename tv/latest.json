@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android.tv",
-  "versionCode": 35,
-  "versionName": "0.1.0-tv-demo1-r19",
+  "versionCode": 37,
+  "versionName": "0.1.0-tv-demo1-r21",
   "minSdk": 26,
-  "bytes": 13951717,
-  "sha256": "18b2836ea12dba04469399ac7efa670a019da6ef861602951c69542ea6013dc1",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r19-v35.apk",
-  "notes": "Letras sincronizadas con desplazamiento automático y salida al finalizar la cola. Mando: corazón y opciones accesibles, foco conservado por fila. Inicio con brillo suave, Historial y sugerencias según escuchas y Me gusta. Cranberries corregido. Explorar, discos y playlists continúan con los temas siguientes de la lista cargada. Letras argentinas de CMTV como respaldo sin tiempos."
+  "bytes": 13773334,
+  "sha256": "4f84468ca88246eafa8af18b385ee733b22e037630b19395de82da225ffc32c9",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r21-v37.apk",
+  "notes": "Acerca del proyecto muestra el logo, diez relatos originales rotativos y el a?o 2026. La galer?a de skins de im?genes del repositorio queda solo en Android celular, no en TV. Actualizaci?n firmada con el mismo certificado de las versiones publicadas."
 }
