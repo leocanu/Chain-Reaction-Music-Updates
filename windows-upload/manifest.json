@@ -1,4 +1,4 @@
-{
+﻿{
     "version":  "0.1.25",
     "title":  "Windows 0.1.25 (candidata)",
     "tag":  "windows-v0.1.25-rc1",
@@ -95,7 +95,7 @@
                       "bytes":  4374371
                   }
               ],
-    "notes":  "Candidata de prueba Windows 0.1.25.\n\nCorrige el arranque cuando queda activo un backend de una versión anterior y fija la carga del código incluido en la instalación. En Windows, el menú lateral ya no muestra las skins de imágenes del repositorio; el selector Skin del reproductor se mantiene. La sección Ondas ahora es About e incluye diez textos aleatorios, el año 2026 y el logo animado.\n\nValidación: 391 pruebas Python (1 omitida), 128 pruebas JavaScript, sintaxis JavaScript comprobada y compilación con Inno Setup 6.7.3. Instalar y confirmar visualmente en otra PC antes de declararla estable.",
+    "notes":  "Candidata de prueba Windows 0.1.25.\n\nCorrige el arranque cuando queda activo un backend de una versiÃ³n anterior y fija la carga del cÃ³digo incluido en la instalaciÃ³n. En Windows, el menÃº lateral ya no muestra las skins de imÃ¡genes del repositorio; el selector Skin del reproductor se mantiene. La secciÃ³n Ondas ahora es About e incluye diez textos aleatorios, el aÃ±o 2026 y el logo animado.\n\nValidaciÃ³n: 391 pruebas Python (1 omitida), 128 pruebas JavaScript, sintaxis JavaScript comprobada y compilaciÃ³n con Inno Setup 6.7.3. Instalar y confirmar visualmente en otra PC antes de declararla estable.\r\n\r\nThe candidate publisher now creates drafts with an explicit GitHub release tag.",
     "bytes":  146980707,
     "sha256":  "ba25798d8fbaab3ccd16ce49ee87c167ee6a5f2ec0e0a8ace6c677b3c81fe90e"
 }

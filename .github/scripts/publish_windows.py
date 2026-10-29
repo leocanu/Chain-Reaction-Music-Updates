@@ -29,9 +29,15 @@ if release and not release['draft']:
  assert existing and existing['size']==size and existing.get('digest')=='sha256:'+meta['sha256'],'Existing public release differs; refusing replacement'
  print(release['html_url']);raise SystemExit(0)
 if not release:
- gh('release','create',meta['tag'],'--title',meta['title'],'--notes-file',str(notes),'--target',os.environ['DEFAULT_BRANCH'],'--draft','--prerelease')
- release=find_release()
-assert release and release['draft'],'Expected a draft release'
+ created=gh('api','--method','POST','repos/'+os.environ['GH_REPO']+'/releases',
+  '-f','tag_name='+meta['tag'],
+  '-f','target_commitish='+os.environ['DEFAULT_BRANCH'],
+  '-f','name='+meta['title'],
+  '-f','body='+meta['notes'],
+  '-F','draft=true',
+  '-F','prerelease=true',capture=True)
+ release=json.loads(created.stdout)
+assert release and release['tag_name']==meta['tag'] and release['draft'],'Expected the requested draft release'
 asset=next((a for a in release['assets'] if a['name']==meta['filename']),None)
 if not asset or asset['size']!=size or asset.get('digest')!='sha256:'+meta['sha256']:
  gh('release','upload',meta['tag'],str(installer),'--clobber')
