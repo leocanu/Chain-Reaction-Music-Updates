@@ -1,101 +1,100 @@
 {
-    "version":  "0.1.27",
-    "title":  "Windows 0.1.27 (candidata)",
-    "tag":  "windows-v0.1.27-rc1",
-    "filename":  "ChainReactionMusic-Setup-0.1.27.exe",
-    "parts":  [
-                  {
-                      "sha256":  "d096486e17a07a76950c1435c1f7228da92cfab75c4b5c39b9c7ec939cd6b120",
-                      "file":  "part-000.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "78f1ad290594b1fddb6fdef621744a1181be125d996a64d8250e66784b9382fd",
-                      "file":  "part-001.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "7c2845f02c439a888f21fe97d66f6a1fc852bc9c92ed31a232fd6a2054824637",
-                      "file":  "part-002.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "0c0fd68a74749677013732119281653f08b600d34dd6504c6977466792a50cab",
-                      "file":  "part-003.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "f20413bb93cc1d243cb7d725e1e46f81171a2d3aa57d61ed0e9e6e83a9f1be21",
-                      "file":  "part-004.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "13f7b7e6bff7c062c34310fd913c94621c77e22c9625c5882a150cc84a6840bb",
-                      "file":  "part-005.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "8195d10560bc57d490e4b0ffcf0366e9e7e00aa9db07148b94be78c1d9b68988",
-                      "file":  "part-006.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "c8d7e7ab3439b50657c6d33fb5d72e649f770dbb5bc850ce9d3d0a268ce8582e",
-                      "file":  "part-007.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "ba71c879dbae2d9c075fb4a60a9165a4a0df13b86df808f04250385b6df282e6",
-                      "file":  "part-008.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "dcac4e1e0693edd686f672f01bbac119c32fc43d4c65e028350c3547127828b8",
-                      "file":  "part-009.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "b7505d347f9b52ce1ecb4e247f764e373c7bfa77b0adbb3614462e3c71a17765",
-                      "file":  "part-010.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "811d67dc266fa32de0d06d2da35fe9e2bf5ae0a795b1ea6f989b7eac9e4c5ee4",
-                      "file":  "part-011.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "e215278012bf2236425c756d1b5d7bc22b549c4d27e89373eaa755daa107d5d7",
-                      "file":  "part-012.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "4d11d58956f542c1df3aa07f63539f191e45883b516452aff157d6cfffcd2edd",
-                      "file":  "part-013.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "92c6c86516c4367463d60be2d4e71348d4d73474a9c1f57e37d2f665e1defaf4",
-                      "file":  "part-014.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "70107c6b042a32e2ea2faa0f38aefa95d27deb4a2fe28325d4f4e38108ca9882",
-                      "file":  "part-015.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "2b21fb59ae2bc293b4f250f6addbe30250c218ec93e5cc62dcb2248be521b6b4",
-                      "file":  "part-016.bin",
-                      "bytes":  8388608
-                  },
-                  {
-                      "sha256":  "c2d1b874fc5cfecc0d4d131f2dea8f6679f99f9685c3df28642f91cdf6421bf9",
-                      "file":  "part-017.bin",
-                      "bytes":  4388664
-                  }
-              ],
-    "notes":  "Candidata de prueba Windows 0.1.27.\r\n\r\nCorrige el inicio cuando no existe motor spotDL externo: ya no exporta CRM_ENGINE_ROOT con una ruta ausente. Conserva la limpieza de builds, metadata sincronizada, proxy_tools incluido y elimina motores laterales heredados al actualizar. Windows sigue sin galería de skins en el menú lateral, mantiene el selector Skin del reproductor y ofrece la sección About con relatos, año 2026 y logo animado.\r\n\r\nValidación: 395 pruebas Python aprobadas, 1 omitida, 60 subpruebas; prueba unitaria del runtime ausente; backend congelado responde 0.1.27 y status ok; Inno Setup 6.7.3. Instalación manual en ESLOQUEHAY pendiente.",
-    "bytes":  146995000,
-    "sha256":  "d7d0fd0a472ad784bbd82368ae1e9d645512a31efd31ca8dabb9b7c503e916d4"
+  "title": "Chain Reaction Music 0.1.28 Windows candidate",
+  "tag": "windows-v0.1.28-rc1",
+  "filename": "ChainReactionMusic-Setup-0.1.28.exe",
+  "bytes": 147016296,
+  "sha256": "96457126e28c465d297ad66e3f1429f9e35a3483ab5d99d64c06d3490a25abb1",
+  "parts": [
+    {
+      "file": "part-001.bin",
+      "bytes": 8388608,
+      "sha256": "ae4852f48609ac6cf638a7cb5e0aed0cfd3a8b92ab06f5dfdfe39e6b414de2e6"
+    },
+    {
+      "file": "part-002.bin",
+      "bytes": 8388608,
+      "sha256": "cd318a5aa87a4e5e53937d6418dd993ed77a1108a0de94a7005ca712d496f534"
+    },
+    {
+      "file": "part-003.bin",
+      "bytes": 8388608,
+      "sha256": "85a219f8ce3a103a5aa4cc7ad7fb05a7a9800716269f4c2f7d22f2173214e5ea"
+    },
+    {
+      "file": "part-004.bin",
+      "bytes": 8388608,
+      "sha256": "479709b7d59048f8b644980983ddad1d68bbfea3774274dc4b43d8b91477931a"
+    },
+    {
+      "file": "part-005.bin",
+      "bytes": 8388608,
+      "sha256": "883cc872b98f30ec712d5ceeb569a3d8f587418e68e1bf137300e31379d1ec19"
+    },
+    {
+      "file": "part-006.bin",
+      "bytes": 8388608,
+      "sha256": "c60431073dbb89cf5280d2d5cd48dfe76d3a74d6667658f42b3934da6376d6e8"
+    },
+    {
+      "file": "part-007.bin",
+      "bytes": 8388608,
+      "sha256": "0c4388e555d083263fdeb2bd6ce9f78a0dc4066150d625c2265673757bb2b136"
+    },
+    {
+      "file": "part-008.bin",
+      "bytes": 8388608,
+      "sha256": "501e174e0b35c1502b46ecdd7a36a91498e4fdc578bd58f6b331b5c8dcb9568b"
+    },
+    {
+      "file": "part-009.bin",
+      "bytes": 8388608,
+      "sha256": "1eed6beb17a1f9bffbdfaf5a9c5f38736aaa6a1ffcd7c52ecbb37e5d97e87577"
+    },
+    {
+      "file": "part-010.bin",
+      "bytes": 8388608,
+      "sha256": "4f4aa24b7ce825c8aab5ee1804c401031056bb8dacefbc449b0e0370d7aea45b"
+    },
+    {
+      "file": "part-011.bin",
+      "bytes": 8388608,
+      "sha256": "7ac5e76e91016f285b281bf17611e849e620f8159cead4ca34baca9e2d2d2622"
+    },
+    {
+      "file": "part-012.bin",
+      "bytes": 8388608,
+      "sha256": "e70e05d0bbff853c4ee1cf751b1272b52c31afd0e3c6b55836917421fcf6c674"
+    },
+    {
+      "file": "part-013.bin",
+      "bytes": 8388608,
+      "sha256": "a6ddc296265bdb9a9002f413522908f2e6c373128ab79cff9ec75446026ab5ab"
+    },
+    {
+      "file": "part-014.bin",
+      "bytes": 8388608,
+      "sha256": "9fc5269908d944db74cee204bb46cfa79803de7ff3f5cb73c5a48f79f65eefe0"
+    },
+    {
+      "file": "part-015.bin",
+      "bytes": 8388608,
+      "sha256": "501beb8fc78749fa7f5ca7d2f901869c883cdeffe40221f847488afc53d5c8d5"
+    },
+    {
+      "file": "part-016.bin",
+      "bytes": 8388608,
+      "sha256": "c6b7b00cb34220c0d9e291bdf9f54286ed44896a3bd28b05c538468ac024fce2"
+    },
+    {
+      "file": "part-017.bin",
+      "bytes": 8388608,
+      "sha256": "3361d75e16b67032b66a901ea39af6f5bf946b9b9afece9a81ded479ad7b9360"
+    },
+    {
+      "file": "part-018.bin",
+      "bytes": 4409960,
+      "sha256": "a89dc9e869eb82ad7c6ca1b26011a99f4adf3402e6de63e4402f0223cf51ae84"
+    }
+  ],
+  "notes": "Windows candidate 0.1.28. Adds persistent genre suggestions in Search, taste-based discovery on Home, Argentina radio and six RSS podcast shows with HTTPS playback. About now displays the installed version. Validation: 399 Python tests passed, 1 skipped, 60 subtests; six podcast feeds returned playable HTTPS episodes. Manual playback on Windows is pending."
 }
