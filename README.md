@@ -4,25 +4,25 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Windows
 
-[Descargar candidata Windows 0.1.19](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.19-rc1/ChainReactionMusic-Setup-0.1.19.exe) · [Notas de la versión](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/tag/windows-v0.1.19-rc1)
+[Descargar candidata Windows 0.1.24](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.24-rc1/ChainReactionMusic-Setup-0.1.24.exe) | [Notas de la versión](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/tag/windows-v0.1.24-rc1)
 
 Instalador para Windows 10/11 de 64 bits. Cerrar la app y actualizar sobre la misma carpeta para conservar los datos. Se recomienda exportar primero el respaldo personal.
 
-Incluye galería de skins compartida con Android, fondo y acento en el reproductor existente, logo grande con Reverberación expansiva y cambio de animación al tocar, menos marcos y las mejoras previas de radios e indicador de carga.
+Incluye Acerca del proyecto con relatos rotativos, etiquetas discretas para identificar las ondas al pasar el mouse y la corrección de empaquetado de proxy_tools. Windows ya no muestra skins de imágenes del repositorio; las skins siguen disponibles en Android celular. Inno Setup compila el instalador e incluye el bootstrapper oficial firmado de WebView2.
 
-Es una **candidata de prueba**, no una versión declarada estable. 355 pruebas Python, 125 JavaScript y revisión WebView2 aislada. Pendientes: instalación en otra PC, reproducción prolongada y Google/Drive con cuenta real. Google Windows requiere configurar localmente un cliente de escritorio y dar consentimiento; los respaldos de Windows y Android se mantienen separados. El JSON de Google y los datos del usuario no se distribuyen aquí.
-
-El archivo `windows/candidate.json` contiene versión, tamaño, SHA256 y enlace al instalador completo publicado en Releases.
+Es una **candidata de prueba**, no una versión declarada estable. 389 pruebas Python aprobadas (1 omitida), revisión de sintaxis JavaScript y compilación del instalador. Pendientes: instalación y reproducción manual en otra PC. El archivo windows/candidate.json contiene versión, tamaño, SHA256 y enlace al instalador.
 
 ## Android TV
 
-[Descargar versión r19](tv/ChainReactionMusic-TV-0.1.0-demo1-r19-v35.apk)
+[Descargar versión r21](tv/ChainReactionMusic-TV-0.1.0-demo1-r21-v37.apk)
 
-Instalar sobre la versión anterior, sin desinstalar, para conservar favoritos y ajustes. Android puede pedir autorizar instalaciones desde esta aplicación. En r16: Ajustes → Actualizaciones permite comprobar nuevas versiones; la comprobación al abrir se limita a una vez por día y se puede desactivar. La descarga requiere elegir Actualizar ahora y la instalación requiere confirmación de Android.
+Instalar sobre la versión anterior, sin desinstalar, para conservar favoritos y ajustes. Android puede pedir autorizar instalaciones desde esta aplicación. El archivo tv/latest.json anuncia la versión, tamaño, SHA256 y enlace HTTPS; la aplicación verifica identidad, versión y firma del APK.
 
-El archivo `tv/latest.json` anuncia la versión disponible con tamaño, SHA256 y enlace HTTPS. La aplicación verifica también identidad, versión y firma del APK. No contiene publicidad ni claves de acceso al repositorio privado.
+TV versionCode 37, Android 8 o posterior. La apariencia de TV conserva sus temas y colores; la galería de skins del repositorio queda solo en Android celular. Las futuras versiones deben conservar el nombre de paquete y la misma clave de firma.
 
-TV versionCode35, Android8 o posterior. Versión de prueba; validar funcionamiento en cada televisor. Las futuras versiones deben conservar el nombre de paquete y la misma clave de firma. Publicar primero el APK y actualizar el manifiesto al final.
+## Cambios de r21
+
+Acerca del proyecto muestra el logo y diez relatos originales que cambian al abrir la página, con el año 2026. Se retiró de TV la galería de skins de imágenes del repositorio; sigue disponible en Android celular. Validado con 157 pruebas Java por variante (celular y TV) y compilación de ambos APK. Prueba en televisor físico pendiente.
 
 ## Cambios de r19
 
@@ -51,6 +51,10 @@ Probado en emulador Android TV API34; la respuesta y la decodificación pueden v
 Primera versión con actualizador móvil. Versiones anteriores necesitan este primer APK manual. Instalar sobre la anterior sin desinstalar, para conservar biblioteca, skins y preferencias. Después: Ajustes → Actualizaciones → Buscar actualización ahora. Android exige confirmar cada instalación.
 
 Modo día, tono con imagen personalizada y perfiles de preferencias probados físicamente en ZTE Blade A54. 140 pruebas y lint sin errores. Navegación TV y cambio real de calidad de video no forman parte de esa prueba física. Canal independiente phone/latest.json, paquete com.chainreactionmusic.android y misma firma anterior. La versión TV publicada no cambia.
+
+### Celular r20
+
+Acerca del proyecto con logo, diez relatos originales rotativos y año 2026. Se conserva el selector de skins en el celular. Probado con 157 pruebas Java y APK firmado con el certificado de las versiones publicadas.
 
 ### Celular r12
 
