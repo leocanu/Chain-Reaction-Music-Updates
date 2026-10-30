@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android",
-  "versionCode": 24,
-  "versionName": "0.1.0-phone-demo1-r21",
+  "versionCode": 25,
+  "versionName": "0.1.0-phone-demo1-r22",
   "minSdk": 26,
-  "bytes": 32544529,
-  "sha256": "651c604eacc58c31bd8d0645f4f5ee691724d5c6195ea0b2622b347af2922792",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-demo1-r21-v24.apk",
-  "notes": "JioSaavn para audio con coincidencia de artista, título y duración; YouTube como respaldo. Iconos de géneros con selector en Ajustes > Apariencia. Se conservan letras y diseño. Instalar encima para mantener datos."
+  "bytes": 32563045,
+  "sha256": "2ff2d74002b0dbaabd0fd6db69f6536a1c99e6edb99d7157fb68e2520316e3eb",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-demo1-r22-v25.apk",
+  "notes": "Explorar con iconos y etiquetas alineados, botones redondeados y respuesta al toque. Iconos para las 26 categorias en las cuatro colecciones, modo aleatorio y contraste claro/oscuro. Correccion de alineacion con letra grande. Instalar encima para conservar datos."
 }

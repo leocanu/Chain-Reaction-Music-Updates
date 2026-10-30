@@ -54,11 +54,17 @@ Probado en emulador Android TV API34; la respuesta y la decodificación pueden v
 
 ## Android celular
 
-[Descargar versión r21](phone/ChainReactionMusic-Phone-0.1.0-demo1-r21-v24.apk)
+[Descargar versión r22](phone/ChainReactionMusic-Phone-0.1.0-demo1-r22-v25.apk)
 
 Primera versión con actualizador móvil. Versiones anteriores necesitan este primer APK manual. Instalar sobre la anterior sin desinstalar, para conservar biblioteca, skins y preferencias. Después: Ajustes → Actualizaciones → Buscar actualización ahora. Android exige confirmar cada instalación.
 
 Modo día, tono con imagen personalizada y perfiles de preferencias probados físicamente en ZTE Blade A54. 140 pruebas y lint sin errores. Navegación TV y cambio real de calidad de video no forman parte de esa prueba física. Canal independiente phone/latest.json, paquete com.chainreactionmusic.android y misma firma anterior. La versión TV publicada no cambia.
+
+### Celular r22: Explorar
+
+Icono y nombre alineados, botones con fondo sutil y bordes redondeados, respuesta al toque y 26 categorias con iconos representativos. Se conservan las cuatro colecciones, el selector de Ajustes y la opcion aleatoria. Dance y Electro tienen dibujos distintos; el contraste se adapta a claro y oscuro.
+
+177 pruebas Java aprobadas por variante, lint sin errores y prueba nativa de 208 celdas en ambas apariencias, repetida con pantalla de 360 dp y fuente al 130%. APK compatible con la firma anterior; telefono fisico pendiente.
 
 ### Celular r20
 
