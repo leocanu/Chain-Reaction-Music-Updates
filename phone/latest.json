@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android",
-  "versionCode": 23,
-  "versionName": "0.1.0-phone-demo1-r20",
+  "versionCode": 24,
+  "versionName": "0.1.0-phone-demo1-r21",
   "minSdk": 26,
-  "bytes": 31749744,
-  "sha256": "9a614e99fd240335a9ff0452d6e8ee4ff422803e0324d263faa87ff3182d2dbe",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-demo1-r20-v23.apk",
-  "notes": "Acerca del proyecto con textos originales rotativos y año 2026. Se mantiene el selector de skins en Android celular. Actualización firmada con el mismo certificado de las versiones publicadas."
+  "bytes": 32544529,
+  "sha256": "651c604eacc58c31bd8d0645f4f5ee691724d5c6195ea0b2622b347af2922792",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-demo1-r21-v24.apk",
+  "notes": "JioSaavn para audio con coincidencia de artista, título y duración; YouTube como respaldo. Iconos de géneros con selector en Ajustes > Apariencia. Se conservan letras y diseño. Instalar encima para mantener datos."
 }

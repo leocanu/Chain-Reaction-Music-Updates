@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android.tv",
-  "versionCode": 37,
-  "versionName": "0.1.0-tv-demo1-r21",
+  "versionCode": 38,
+  "versionName": "0.1.0-tv-demo1-r22",
   "minSdk": 26,
-  "bytes": 13773334,
-  "sha256": "4f84468ca88246eafa8af18b385ee733b22e037630b19395de82da225ffc32c9",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r21-v37.apk",
-  "notes": "Acerca del proyecto muestra el logo, diez relatos originales rotativos y el año 2026. La galería de skins de imágenes del repositorio queda solo en Android celular, no en TV. Actualización firmada con el mismo certificado de las versiones publicadas."
+  "bytes": 14555906,
+  "sha256": "84fd9fb068cfb807eb97f8bd3332d002390278cf93389ee42dfa89f9c02d1cfc",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r22-v38.apk",
+  "notes": "JioSaavn para audio con coincidencia de artista, título y duración; YouTube como respaldo. Iconos de géneros con selector en Ajustes > Apariencia. Se conservan letras y diseño. Instalar encima para mantener datos."
 }

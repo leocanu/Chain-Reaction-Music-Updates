@@ -12,13 +12,21 @@ Incluye Acerca del proyecto con relatos rotativos, etiquetas discretas para iden
 
 Es una **candidata de prueba**, no una version declarada estable. 395 pruebas Python aprobadas (1 omitida), sintaxis JavaScript y compilacion del instalador verificadas. Instalada y abierta desde el acceso directo en otra PC; backend 0.1.27 responde correctamente. El archivo windows/candidate.json contiene version, tamano, SHA256 y enlace al instalador.
 
+## Android: celular r21 / TV r22
+
+JioSaavn para audio cuando coinciden artista principal, título y duración, con YouTube como respaldo. Reproducción a 128 kbps y fuente de descarga a 320 kbps cuando está disponible. El video conserva su fuente anterior.
+
+Iconos de géneros: Bicolor, Siluetas, Tarjetas y Emblemas (vista previa), con opción aleatoria. Selector en Ajustes > Apariencia. El resto del diseño y las letras se mantienen.
+
+177 pruebas Java aprobadas por variante (2 pruebas de red opcionales omitidas en la suite local), lint sin errores y reproducción real de JioSaavn verificada en emuladores de celular API35 y TV API34. En TV también se comprobó letras, cola y navegación con mando. Firma igual a las versiones anteriores. Pendiente prueba en dispositivos físicos.
+
 ## Android TV
 
-[Descargar versión r21](tv/ChainReactionMusic-TV-0.1.0-demo1-r21-v37.apk)
+[Descargar versión r22](tv/ChainReactionMusic-TV-0.1.0-demo1-r22-v38.apk)
 
 Instalar sobre la versión anterior, sin desinstalar, para conservar favoritos y ajustes. Android puede pedir autorizar instalaciones desde esta aplicación. El archivo tv/latest.json anuncia la versión, tamaño, SHA256 y enlace HTTPS; la aplicación verifica identidad, versión y firma del APK.
 
-TV versionCode 37, Android 8 o posterior. La apariencia de TV conserva sus temas y colores; la galería de skins del repositorio queda solo en Android celular. Las futuras versiones deben conservar el nombre de paquete y la misma clave de firma.
+TV versionCode 38, Android 8 o posterior. La apariencia de TV conserva sus temas y colores; la galería de skins del repositorio queda solo en Android celular. Las futuras versiones deben conservar el nombre de paquete y la misma clave de firma.
 
 ## Cambios de r21
 
@@ -46,7 +54,7 @@ Probado en emulador Android TV API34; la respuesta y la decodificación pueden v
 
 ## Android celular
 
-[Descargar versión r12](phone/ChainReactionMusic-Phone-0.1.0-demo1-r12-v15.apk)
+[Descargar versión r21](phone/ChainReactionMusic-Phone-0.1.0-demo1-r21-v24.apk)
 
 Primera versión con actualizador móvil. Versiones anteriores necesitan este primer APK manual. Instalar sobre la anterior sin desinstalar, para conservar biblioteca, skins y preferencias. Después: Ajustes → Actualizaciones → Buscar actualización ahora. Android exige confirmar cada instalación.
 
