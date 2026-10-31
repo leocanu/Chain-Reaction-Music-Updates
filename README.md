@@ -4,9 +4,14 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Versiones actuales
 
-- **Windows 0.1.37 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.37-rc1/ChainReactionMusic-Setup-0.1.37.exe).
+- **Windows 0.1.38 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.38-rc1/ChainReactionMusic-Setup-0.1.38.exe).
 - **Android celular Beta 1 / v27:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk).
 - **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
+
+### Windows 0.1.38
+Corrige Cargar más al volver a una playlist, conserva selección y evita respuestas obsoletas y duplicados. Descargas terminadas muestran ✓ Guardada; playlists abiertas guardan color de visitada. Los álbumes de búsqueda muestran el año informado por el catálogo y consultan detalles de forma diferida cuando falta.
+Normaliza etiquetas Remaster/Remastered con año y Version. Agrega source-resolution.log con rotación y motivos agregados de rechazo. Los fallos históricos no pueden reconstruirse y no se afirma resolver todos.
+Validación: 415 pruebas Python (414 aprobadas, una omitida), siete pruebas Node y aplicación empaquetada en interfaz de prueba con paginación simulada hasta 80 temas. Pendiente validación en la sesión del usuario.
 
 ### Windows 0.1.37
 
