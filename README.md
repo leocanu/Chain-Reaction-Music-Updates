@@ -5,7 +5,7 @@ Repositorio público de distribución. No contiene el código privado del proyec
 ## Versiones actuales
 
 - **Windows 0.1.37 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.37-rc1/ChainReactionMusic-Setup-0.1.37.exe).
-- **Android celular r23 / v26:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-demo1-r23-v26.apk).
+- **Android celular Beta 1 / v27:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk).
 - **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
 
 ### Windows 0.1.37
@@ -15,6 +15,10 @@ Ajustes → Actualizaciones consulta este canal público, descarga el instalador
 La biblioteca indexa en segundo plano, informa progreso y permite cancelar sin borrar música. Listas y álbumes muestran 200 entradas por página; la búsqueda abarca todo el catálogo cargado. Incluye las cuatro colecciones completas de iconos, con variantes claras/oscuras y elección aleatoria en Ajustes.
 
 Validación: 411 pruebas Python (410 aprobadas y una omitida); carga sintética de 63.000 canciones, cancelación, interfaz real, iconos y descarga verificada. Los datos sintéticos no equivalen a medir una unidad física de 63.000 archivos.
+
+### Android celular Beta 1
+
+Inicio aprobado: tapas más visibles, títulos de dos líneas, historial vacío compacto y podcasts sobre la navegación. El logo se precarga y ya no intercala una imagen provisional. Validado en emulador; la fluidez final requiere comprobación en celular físico. Android TV conserva r23.
 
 ### Android r23
 
