@@ -101,3 +101,6 @@ Acerca del proyecto con logo, diez relatos originales rotativos y año 2026. Se 
 ### Celular r12
 
 Campo de búsqueda y lupa visibles en Inicio; Skins en el menú inferior. Probado en ZTE: búsqueda real, regreso a Inicio, selector de skins y conservación de datos. La versión TV publicada no cambia.
+
+## Verificación de instalación Windows 0.1.37
+Instalada y abierta sobre 0.1.35 en ESLOQUEHAY. Se conservaron los archivos de configuración y una copia previa. Backend operativo, biblioteca con 139 canciones e índice completo, 26 iconos y consulta del canal público correcta. Manifiestos y descargas de Android verificados contra tamaño y SHA256 publicados.
