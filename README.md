@@ -2,6 +2,34 @@
 
 Repositorio público de distribución. No contiene el código privado del proyecto ni credenciales.
 
+## Versiones actuales
+
+- **Windows 0.1.37 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.37-rc1/ChainReactionMusic-Setup-0.1.37.exe).
+- **Android celular r23 / v26:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-demo1-r23-v26.apk).
+- **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
+
+### Windows 0.1.37
+
+Ajustes → Actualizaciones consulta este canal público, descarga el instalador y comprueba tamaño y SHA256 antes de ofrecer cerrar e instalar. La primera actualización desde el comprobador antiguo requiere descargar este instalador. Actualizar sobre la instalación existente conserva los datos.
+
+La biblioteca indexa en segundo plano, informa progreso y permite cancelar sin borrar música. Listas y álbumes muestran 200 entradas por página; la búsqueda abarca todo el catálogo cargado. Incluye las cuatro colecciones completas de iconos, con variantes claras/oscuras y elección aleatoria en Ajustes.
+
+Validación: 411 pruebas Python (410 aprobadas y una omitida); carga sintética de 63.000 canciones, cancelación, interfaz real, iconos y descarga verificada. Los datos sintéticos no equivalen a medir una unidad física de 63.000 archivos.
+
+### Android r23
+
+Explorar conserva el género al cambiar a Todo o Canciones: no busca literalmente Todos en YouTube. TV incorpora el pack completo del celular en Inicio y el selector con mando. Se mantienen las letras y el resto del diseño.
+
+177 pruebas Java aprobadas por variante, dos pruebas de red opcionales omitidas y lint sin errores. Verificación en emuladores de celular API35 y TV API34: reproducción real de JioSaavn a 128 kbps, fallback conservado, iconos y navegación. Pendiente prueba en dispositivos Android físicos.
+
+Instalar los APK encima de la versión anterior, sin desinstalar. Se mantienen los paquetes y la firma. Los manifiestos phone/latest.json y tv/latest.json contienen versión, tamaño, SHA256 y enlace HTTPS.
+
+## Versiones anteriores
+
+# Chain Reaction Music — instaladores y actualizaciones
+
+Repositorio público de distribución. No contiene el código privado del proyecto ni credenciales.
+
 ## Windows
 
 [Descargar candidata Windows 0.1.27](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.27-rc1/ChainReactionMusic-Setup-0.1.27.exe) | [Notas de la version](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/tag/windows-v0.1.27-rc1)

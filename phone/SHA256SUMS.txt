@@ -3,3 +3,4 @@ c70cbf29bea46cfab836cb7621934a83095e9d8a750476fb610ba8611484b456  ChainReactionM
 9a614e99fd240335a9ff0452d6e8ee4ff422803e0324d263faa87ff3182d2dbe  ChainReactionMusic-Phone-0.1.0-demo1-r20-v23.apk
 651c604eacc58c31bd8d0645f4f5ee691724d5c6195ea0b2622b347af2922792  ChainReactionMusic-Phone-0.1.0-demo1-r21-v24.apk
 2ff2d74002b0dbaabd0fd6db69f6536a1c99e6edb99d7157fb68e2520316e3eb  ChainReactionMusic-Phone-0.1.0-demo1-r22-v25.apk
+c16444bfb1942071cb209c368bba17b61ee4363cb42fa7b89329437a38249f1e  ChainReactionMusic-Phone-0.1.0-demo1-r23-v26.apk

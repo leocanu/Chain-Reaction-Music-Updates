@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android",
-  "versionCode": 25,
-  "versionName": "0.1.0-phone-demo1-r22",
+  "versionCode": 26,
+  "versionName": "0.1.0-phone-demo1-r23",
   "minSdk": 26,
-  "bytes": 32563045,
-  "sha256": "2ff2d74002b0dbaabd0fd6db69f6536a1c99e6edb99d7157fb68e2520316e3eb",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-demo1-r22-v25.apk",
-  "notes": "Explorar con iconos y etiquetas alineados, botones redondeados y respuesta al toque. Iconos para las 26 categorias en las cuatro colecciones, modo aleatorio y contraste claro/oscuro. Correccion de alineacion con letra grande. Instalar encima para conservar datos."
+  "bytes": 32295226,
+  "sha256": "c16444bfb1942071cb209c368bba17b61ee4363cb42fa7b89329437a38249f1e",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-demo1-r23-v26.apk",
+  "notes": "Explorar mantiene el género al tocar Todo o Canciones; evita videos ajenos de una búsqueda literal de Todos. Se conservan los iconos, las letras y el diseño del celular. JioSaavn para audio y YouTube como respaldo. Instalar encima para conservar los datos."
 }

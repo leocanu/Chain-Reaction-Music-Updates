@@ -1,10 +1,10 @@
 {
   "packageName": "com.chainreactionmusic.android.tv",
-  "versionCode": 38,
-  "versionName": "0.1.0-tv-demo1-r22",
+  "versionCode": 39,
+  "versionName": "0.1.0-tv-demo1-r23",
   "minSdk": 26,
-  "bytes": 14555906,
-  "sha256": "84fd9fb068cfb807eb97f8bd3332d002390278cf93389ee42dfa89f9c02d1cfc",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r22-v38.apk",
-  "notes": "JioSaavn para audio con coincidencia de artista, título y duración; YouTube como respaldo. Iconos de géneros con selector en Ajustes > Apariencia. Se conservan letras y diseño. Instalar encima para mantener datos."
+  "bytes": 14318936,
+  "sha256": "fe3434958398821f4c6da95044af41ebc437452c2fba34269e942cc32ae691aa",
+  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk",
+  "notes": "Explorar mantiene el género al tocar Todo o Canciones; evita videos ajenos de una búsqueda literal de Todos. Colecciones completas en Inicio y selector de géneros con mando. JioSaavn para audio y YouTube como respaldo. Instalar encima para conservar los datos."
 }

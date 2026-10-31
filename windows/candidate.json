@@ -1,10 +1,10 @@
 {
-    "channel":  "candidate",
-    "version":  "0.1.27",
-    "sha256":  "d7d0fd0a472ad784bbd82368ae1e9d645512a31efd31ca8dabb9b7c503e916d4",
-    "tag":  "windows-v0.1.27-rc1",
-    "bytes":  146995000,
-    "platform":  "windows-x64",
-    "schemaVersion":  1,
-    "installerUrl":  "https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.27-rc1/ChainReactionMusic-Setup-0.1.27.exe"
+  "channel": "candidate",
+  "version": "0.1.37",
+  "sha256": "819921967005a2a6d2baa2ab9ef077ef90cb46de68b6d3d2730e0c30e5a50bb4",
+  "tag": "windows-v0.1.37-rc1",
+  "bytes": 196286624,
+  "platform": "windows-x64",
+  "schemaVersion": 1,
+  "installerUrl": "https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.37-rc1/ChainReactionMusic-Setup-0.1.37.exe"
 }
