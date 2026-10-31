@@ -4,9 +4,12 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Versiones actuales
 
-- **Windows 0.1.40 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.40-rc1/ChainReactionMusic-Setup-0.1.40.exe).
+- **Windows 0.1.41 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.41-rc1/ChainReactionMusic-Setup-0.1.41.exe).
 - **Android celular Beta 1 / v27:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk).
 - **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
+
+### Windows 0.1.41
+Canciones y Todo comparten candidatos y filtrado. Las categorías de Todo arrancan en paralelo. Las respuestas antiguas no reemplazan una búsqueda nueva. Diseño y Volver conservados. Validación:423 pruebas Python(1 omitida),13 Node y prueba real de interfaz. La rapidez depende de la red y el proveedor.
 
 ### Windows 0.1.40
 Restaura la flecha Volver a su ubicación de 0.1.38: encabezado superior izquierdo, junto al logo, sin etiqueta de texto ni fila adicional en el contenido.
