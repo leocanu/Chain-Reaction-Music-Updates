@@ -1,3 +1,4 @@
 
 0e5e5681c6c03062e007f793ea90a60ac02db1f04aff6db94b53a759af679b7b  ChainReactionMusic-Setup-0.1.38.exe
 d10c81d073affc35160a6f6d5431a68a269f47c12bb4db10b0cd31602fc607c1  ChainReactionMusic-Setup-0.1.39.exe
+efb081d3c85d91eed53ac3af7db64547731364297c139e97460320a21fb50bb1  ChainReactionMusic-Setup-0.1.40.exe

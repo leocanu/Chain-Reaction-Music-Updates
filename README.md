@@ -4,9 +4,13 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Versiones actuales
 
-- **Windows 0.1.39 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.39-rc1/ChainReactionMusic-Setup-0.1.39.exe).
+- **Windows 0.1.40 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.40-rc1/ChainReactionMusic-Setup-0.1.40.exe).
 - **Android celular Beta 1 / v27:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk).
 - **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
+
+### Windows 0.1.40
+Restaura la flecha Volver a su ubicación de 0.1.38: encabezado superior izquierdo, junto al logo, sin etiqueta de texto ni fila adicional en el contenido.
+Validación: archivo de navegación idéntico al anterior aprobado, sintaxis JavaScript y prueba de interfaz en búsqueda, biblioteca, descargas, ajustes e historial. Navegación Atrás funcional. Actualización pendiente en la sesión del usuario.
 
 ### Windows 0.1.39
 Corrige la apertura de álbumes de Deezer que devolvía error 500; American Standard validado por HTTP con 11 canciones. Volver queda visible dentro de Búsqueda. Álbumes y playlists muestran descarga, fuente y Me gusta.
