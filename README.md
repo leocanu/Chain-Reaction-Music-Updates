@@ -4,9 +4,12 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Versiones actuales
 
-- **Windows 0.1.42 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.42-rc1/ChainReactionMusic-Setup-0.1.42.exe).
+- **Windows 0.1.43 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.43-rc1/ChainReactionMusic-Setup-0.1.43.exe).
 - **Android celular Beta 1 / v27:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk).
 - **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
+
+### Windows 0.1.43
+Recuperación de fuentes con presupuesto global de 45s y hasta 3 candidatos YouTube, tras JioSaavn. Verifica acceso al medio, artista y duración; acepta original/remaster sin aceptar versiones alternativas no solicitadas. Conserva álbum y selección manual. Reintentar renueva la fuente; registra pendientes y permite continuar la cola. Descargas Spotify verifican candidatos antes de enviar a spotDL. Validación:444 pruebas Python(443 correctas,1 omitida),135 Node e interfaz Edge. Tres de cuatro fuentes históricas verificadas; un audio completo legible y de duración correcta. Fire Woman sigue pendiente por discrepancia de duración. No agrega proveedores ni declara resuelta toda la cobertura. Candidata para pruebas, aún beta.
 
 ### Windows 0.1.42
 Corrige Canción en resultados sin tipo, el encabezado DESCUBRÍ ALGO NUEVO y los créditos de producción de NetEase que aparecían como versos. Conserva las letras en cualquier idioma y sus tiempos. Distribución y Volver sin cambios. Validación:426 pruebas Python(1 omitida),12 Node y pantalla real de Edge. La demora inicial de búsquedas sigue pendiente.
