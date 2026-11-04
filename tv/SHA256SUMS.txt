@@ -7,3 +7,4 @@ c07cf8084a169bf50ce16dede5a7490c4a1bc96cb5c7724fde77fe2033696173  ChainReactionM
 4f84468ca88246eafa8af18b385ee733b22e037630b19395de82da225ffc32c9  ChainReactionMusic-TV-0.1.0-demo1-r21-v37.apk
 84fd9fb068cfb807eb97f8bd3332d002390278cf93389ee42dfa89f9c02d1cfc  ChainReactionMusic-TV-0.1.0-demo1-r22-v38.apk
 fe3434958398821f4c6da95044af41ebc437452c2fba34269e942cc32ae691aa  ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk
+41dda71d6f034cba84ac8c1f588a63606f6c99304db2cb03a1762f9084b471a6  ChainReactionMusic-TV-0.1.0-beta1-r28-v44.apk
