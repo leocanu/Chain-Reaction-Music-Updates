@@ -1,10 +1,10 @@
 {
-  "packageName": "com.chainreactionmusic.android.tv",
-  "versionCode": 44,
-  "versionName": "0.1.0-tv-beta1-r28",
-  "minSdk": 26,
-  "bytes": 14341504,
-  "sha256": "41dda71d6f034cba84ac8c1f588a63606f6c99304db2cb03a1762f9084b471a6",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-beta1-r28-v44.apk",
-  "notes": "Beta: cuenta Google e historial compartido con Windows y Android. Vinculacion mediante codigo desde celular o PC. Sincronizacion manual desde Cuenta y perfil. Conserva ajustes y favoritos. Incluye mejoras de letras y controles del reproductor. Instalar encima de la version anterior. Validado en emulador; prueba en TV fisica pendiente."
+    "packageName":  "com.chainreactionmusic.android.tv",
+    "versionCode":  46,
+    "versionName":  "0.1.0-tv-beta1-r30",
+    "minSdk":  26,
+    "bytes":  14500650,
+    "sha256":  "954419bd8b69492140a817951482a3de0bb2174d1203d81187ba80c23b63e4df",
+    "url":  "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/tv/ChainReactionMusic-TV-0.1.0-beta1-r30-v46.apk",
+    "notes":  "Inicio con superficies mejor definidas y acceso a Matecito para apoyar el proyecto. Incluye mejoras anteriores de cuenta, historial y reproductor. Instalar encima para conservar los datos."
 }

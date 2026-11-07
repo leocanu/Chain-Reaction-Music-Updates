@@ -1,10 +1,10 @@
 {
-  "packageName": "com.chainreactionmusic.android",
-  "versionCode": 27,
-  "versionName": "0.1.0-phone-beta1",
-  "minSdk": 26,
-  "bytes": 32568174,
-  "sha256": "8b5569a0e42ac0bab64c489e87475f15d5728a8aae3f7a466f0b538597222bd2",
-  "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk",
-  "notes": "Beta 1: Inicio con tapas más visibles, títulos de dos líneas, menos accesos repetidos y podcasts completos. Arranque del logo sin imagen provisional y animación precargada. Instalar encima para conservar datos."
+    "packageName":  "com.chainreactionmusic.android",
+    "versionCode":  34,
+    "versionName":  "0.1.0-phone-beta8",
+    "minSdk":  26,
+    "bytes":  32479077,
+    "sha256":  "c5a117d0650cd28347856ef2c0cc3da9c2f795679a000edeeeeada415c6d3e94",
+    "url":  "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/phone/ChainReactionMusic-Phone-0.1.0-beta8-v34.apk",
+    "notes":  "Inicio con superficies mejor definidas y acceso a Matecito para apoyar el proyecto. Incluye mejoras anteriores de cuenta, historial y reproductor. Instalar encima para conservar los datos."
 }
