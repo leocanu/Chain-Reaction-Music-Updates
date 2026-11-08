@@ -22,8 +22,15 @@ def gh(*args,check=True,capture=False):
  return subprocess.run(['gh',*args],check=check,capture_output=capture,text=True)
 def find_release():
  releases=json.loads(gh('api','repos/'+os.environ['GH_REPO']+'/releases?per_page=100',capture=True).stdout)
- return next((r for r in releases if r['tag_name']==meta['tag']),None)
+ exact=next((r for r in releases if r['tag_name']==meta['tag']),None)
+ if exact:return exact
+ matches=[r for r in releases if r['draft'] and r['name']==meta['title']]
+ assert len(matches)<=1,'Ambiguous existing draft release; refusing duplicate'
+ return matches[0] if matches else None
 release=find_release()
+if release and release['draft'] and release['tag_name']!=meta['tag']:
+ gh('api','-X','PATCH','repos/'+os.environ['GH_REPO']+'/releases/'+str(release['id']),'-f','tag_name='+meta['tag'])
+ release=find_release()
 if release and not release['draft']:
  existing=next((a for a in release['assets'] if a['name']==meta['filename']),None)
  assert existing and existing['size']==size and existing.get('digest')=='sha256:'+meta['sha256'],'Existing public release differs; refusing replacement'
