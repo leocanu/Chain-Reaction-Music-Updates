@@ -126,5 +126,5 @@
       "sha256": "0b035ab8247a72b1c39bf38972f14650d96847eaddf94c43612e97cd10641cca"
     }
   ],
-  "notes": "Windows 0.1.56: ajustes de cola de video compacta, iconos del reproductor, continuidad de audio al elegir videos, carruseles y recuperacion de caratulas en recientes. Se conservan sin cambios las versiones Android, TV y Linux. 154 pruebas JavaScript correctas; compilacion Windows y motor portatil verificados. Candidata para probar antes de una adopcion general."
+  "notes": "Windows 0.1.56: ajustes de cola de video compacta, iconos del reproductor, continuidad de audio al elegir videos, carruseles y recuperacion de caratulas en recientes. Se conservan sin cambios las versiones Android, TV y Linux. 154 pruebas JavaScript correctas; compilacion Windows y motor portatil verificados. Candidata para probar antes de una adopcion general. Instalador verificado por SHA-256."
 }
