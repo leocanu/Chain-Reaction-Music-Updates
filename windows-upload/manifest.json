@@ -1,0 +1,130 @@
+{
+  "title": "Chain Reaction Music 0.1.56 Windows candidate",
+  "tag": "windows-v0.1.56-rc1",
+  "filename": "ChainReactionMusic-Setup-0.1.56.exe",
+  "bytes": 197499668,
+  "sha256": "c14815e18020e0aa22367e1ce41a73ae164ef9799958ec2ba206fb918f38f5c0",
+  "parts": [
+    {
+      "file": "part-001.bin",
+      "bytes": 8388608,
+      "sha256": "d74342b1a57b571943de21914ca1434a950562c9c3d5bfe22eadf77fd5dc9908"
+    },
+    {
+      "file": "part-002.bin",
+      "bytes": 8388608,
+      "sha256": "322c7ce653c2139ffb56aa340006dc0839820e1ebdbb799054a6ea9101582499"
+    },
+    {
+      "file": "part-003.bin",
+      "bytes": 8388608,
+      "sha256": "e73a2e45cf52b089025f205a4ce7dcb0f79e5ddf9af77d0f340fe3dc64c9c87b"
+    },
+    {
+      "file": "part-004.bin",
+      "bytes": 8388608,
+      "sha256": "d723e2151459b9d975c5c9df44597b17ed1cd32a5247b4884e4cd25a0644eac2"
+    },
+    {
+      "file": "part-005.bin",
+      "bytes": 8388608,
+      "sha256": "4c691a5d8fb7ac3b9aff84baf7ad3349941e127d58db3990622ce443ef43ad2a"
+    },
+    {
+      "file": "part-006.bin",
+      "bytes": 8388608,
+      "sha256": "a00138883ff2b088e6e101cf6a405f44b55ca92ab134611a84b2c22105063f23"
+    },
+    {
+      "file": "part-007.bin",
+      "bytes": 8388608,
+      "sha256": "0a4ed6436e7db1c8664f71e1f5bb55345791d19cd7c778a43981df6d7ae22a64"
+    },
+    {
+      "file": "part-008.bin",
+      "bytes": 8388608,
+      "sha256": "02fbcfce2c190c036fbfec2e5420b6667e5c757914fa81245da5b290654ab12d"
+    },
+    {
+      "file": "part-009.bin",
+      "bytes": 8388608,
+      "sha256": "acfadc8152db496035760fc18c8b070ed487af1594b98a1925a7bcc4dd705a57"
+    },
+    {
+      "file": "part-010.bin",
+      "bytes": 8388608,
+      "sha256": "01c3cf204f790a12333b50e4434a8c20ccad13c03e212b03db6de44a2a0486fe"
+    },
+    {
+      "file": "part-011.bin",
+      "bytes": 8388608,
+      "sha256": "8575575681085cea8ed8b4cb3db91309b7b22554aed3180c35d31013da3a6a2d"
+    },
+    {
+      "file": "part-012.bin",
+      "bytes": 8388608,
+      "sha256": "a9ad6338b548431059e83eef9c6144b4cb8da6fabda7f4f5b50b64b5381e6fab"
+    },
+    {
+      "file": "part-013.bin",
+      "bytes": 8388608,
+      "sha256": "5b38c0d8b58ce26584cc7890a24e5638ff4fe5a40e3cbe9d3275f6ddd9fb7cba"
+    },
+    {
+      "file": "part-014.bin",
+      "bytes": 8388608,
+      "sha256": "1f8c87487f278e466ea7bba8b124dc42c1d8b59276e9d924a73983db66154c0f"
+    },
+    {
+      "file": "part-015.bin",
+      "bytes": 8388608,
+      "sha256": "397caddfbec429897cd00420e1ff6157b4b10823816fdcb134a5a192c775a795"
+    },
+    {
+      "file": "part-016.bin",
+      "bytes": 8388608,
+      "sha256": "77fa81e6bc16154012ed95242115e67d131e188e07ec5582a774479297dacb35"
+    },
+    {
+      "file": "part-017.bin",
+      "bytes": 8388608,
+      "sha256": "68d8658f70e9b0ae3a32af08d2f7516cfa338fe895b214b7ad8e7dfaa850f197"
+    },
+    {
+      "file": "part-018.bin",
+      "bytes": 8388608,
+      "sha256": "f51007e582e414d02ba5ddda1ecf14237fbfb63701b71ed5fa702c5965618051"
+    },
+    {
+      "file": "part-019.bin",
+      "bytes": 8388608,
+      "sha256": "490f568a4c114765699f393f47063d676339c9602f0a0891f411e4c16890b11b"
+    },
+    {
+      "file": "part-020.bin",
+      "bytes": 8388608,
+      "sha256": "ecf884454db13bc8814d65b29a7916d9ef4258c36e7522daf1bbaeedacc7a334"
+    },
+    {
+      "file": "part-021.bin",
+      "bytes": 8388608,
+      "sha256": "694141e2370b33f1b76e14a4b8db076a85d0ad359586012d29a9b78e3fcf7f5e"
+    },
+    {
+      "file": "part-022.bin",
+      "bytes": 8388608,
+      "sha256": "56158fd04fbdd8750ea1d35264fa249e0ebb40336837f9a413746716041a6791"
+    },
+    {
+      "file": "part-023.bin",
+      "bytes": 8388608,
+      "sha256": "b0802f1b42ac0009c02ee26f95922086185d3c146aa52963f3297b6afa7a5a5f"
+    },
+    {
+      "file": "part-024.bin",
+      "bytes": 4561684,
+      "sha256": "0b035ab8247a72b1c39bf38972f14650d96847eaddf94c43612e97cd10641cca"
+    }
+  ],
+  "notes": "Windows 0.1.56: ajustes de cola de video compacta, iconos del reproductor, continuidad de audio al elegir videos, carruseles y recuperacion de caratulas en recientes. Se conservan sin cambios las versiones Android, TV y Linux. 154 pruebas JavaScript correctas; compilacion Windows y motor portatil verificados. Candidata para probar antes de una adopcion general."
+}
