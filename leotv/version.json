@@ -1,0 +1,13 @@
+{
+    "packageName": "ar.appvideo.player",
+    "versionCode": 47,
+    "versionName": "0.47.0",
+    "minSdk": 23,
+    "bytes": 6393937,
+    "sha256": "025d59e593c136fe5e6110188c9082354f40728344977bb5c9f7deeb9fc72be3",
+    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.47.0.apk",
+    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.47.0.apk",
+    "changelog": "• Selector de Calidad y Resolución (Botón directo 🎬 Calidad: 1080p, 720p, 480p y Auto)\n• Corrección de pixelación en películas HLS\n• Series completas con episodios y miniaturas de TMDB\n• Extractores de video corregidos",
+    "notes": "• Selector de Calidad y Resolución (Botón directo 🎬 Calidad: 1080p, 720p, 480p y Auto)\n• Corrección de pixelación en películas HLS\n• Series completas con episodios y miniaturas de TMDB\n• Extractores de video corregidos",
+    "mandatory": false
+}
