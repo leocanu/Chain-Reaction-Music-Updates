@@ -1,13 +1,13 @@
 {
     "packageName": "ar.appvideo.player",
-    "versionCode": 47,
-    "versionName": "0.47.0",
+    "versionCode": 48,
+    "versionName": "0.48.0",
     "minSdk": 23,
-    "bytes": 6394947,
-    "sha256": "bbdb59d20304378f7f9c9e39aa949c80a84325da16f034135ff7d36b39c1b4dc",
-    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.47.0.apk",
-    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.47.0.apk",
-    "changelog": "• Barra de controles reubicada abajo (Audio, Calidad, Aspecto, Descargar)\n• Navegación D-Pad fluida (Flecha Arriba/Abajo entra a la barra y OK pulsa el botón)\n• Engranaje ⚙️ vinculado directamente a Ajustes del Reproductor\n• Cartel de Pausado/Salto movido arriba sin tapar controles centrales\n• Soporte TMDB de películas para títulos clásicos (Tornado 1996 1080p)",
-    "notes": "• Barra de controles reubicada abajo (Audio, Calidad, Aspecto, Descargar)\n• Navegación D-Pad fluida (Flecha Arriba/Abajo entra a la barra y OK pulsa el botón)\n• Engranaje ⚙️ vinculado directamente a Ajustes del Reproductor\n• Cartel de Pausado/Salto movido arriba sin tapar controles centrales\n• Soporte TMDB de películas para títulos clásicos (Tornado 1996 1080p)",
+    "bytes": 6400449,
+    "sha256": "631d12fb77deca70dde64184759776fb0e8525c0d20348dc2e846c72a270926e",
+    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.48.0.apk",
+    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.48.0.apk",
+    "changelog": "• Sección +18 oculta por completo de la barra lateral (solo visible al desbloquear Control Parental con PIN en Ajustes)\n• Máxima calidad forzada por defecto (sin pixelación adaptativa a 480p en Tornado y estrenos)\n• Selector de servidores/fuentes (CineHax 1080p, SoloLatino, Cuevana, CineCalidad, Pelispedia)\n• Soporte para Reproductor Externo (Abrir con VLC o JustPlayer)\n• Ficha técnica enriquecida con calidad, audio y servidor\n• OSD inferior reubicado para control remoto TV",
+    "notes": "• Sección +18 oculta por completo de la barra lateral (solo visible al desbloquear Control Parental con PIN en Ajustes)\n• Máxima calidad forzada por defecto (sin pixelación adaptativa a 480p en Tornado y estrenos)\n• Selector de servidores/fuentes (CineHax 1080p, SoloLatino, Cuevana, CineCalidad, Pelispedia)\n• Soporte para Reproductor Externo (Abrir con VLC o JustPlayer)\n• Ficha técnica enriquecida con calidad, audio y servidor\n• OSD inferior reubicado para control remoto TV",
     "mandatory": false
 }
