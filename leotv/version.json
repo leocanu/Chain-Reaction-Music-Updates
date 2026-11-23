@@ -1,13 +1,13 @@
 {
     "packageName": "ar.appvideo.player",
-    "versionCode": 48,
-    "versionName": "0.48.0",
+    "versionCode": 49,
+    "versionName": "0.49.0",
     "minSdk": 23,
-    "bytes": 6400449,
-    "sha256": "631d12fb77deca70dde64184759776fb0e8525c0d20348dc2e846c72a270926e",
-    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.48.0.apk",
-    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.48.0.apk",
-    "changelog": "• Sección +18 oculta por completo de la barra lateral (solo visible al desbloquear Control Parental con PIN en Ajustes)\n• Máxima calidad forzada por defecto (sin pixelación adaptativa a 480p en Tornado y estrenos)\n• Selector de servidores/fuentes (CineHax 1080p, SoloLatino, Cuevana, CineCalidad, Pelispedia)\n• Soporte para Reproductor Externo (Abrir con VLC o JustPlayer)\n• Ficha técnica enriquecida con calidad, audio y servidor\n• OSD inferior reubicado para control remoto TV",
-    "notes": "• Sección +18 oculta por completo de la barra lateral (solo visible al desbloquear Control Parental con PIN en Ajustes)\n• Máxima calidad forzada por defecto (sin pixelación adaptativa a 480p en Tornado y estrenos)\n• Selector de servidores/fuentes (CineHax 1080p, SoloLatino, Cuevana, CineCalidad, Pelispedia)\n• Soporte para Reproductor Externo (Abrir con VLC o JustPlayer)\n• Ficha técnica enriquecida con calidad, audio y servidor\n• OSD inferior reubicado para control remoto TV",
+    "bytes": 6402823,
+    "sha256": "3173b0c2b73d790eda17209b7b68eb0dba5230ef883de13c7627b22dab28fb23",
+    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.49.0.apk",
+    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.49.0.apk",
+    "changelog": "• Acceso rápido a Actualizaciones (icono 🚀 en la barra lateral y opción 0 en Ajustes)\n• Corrección estricta de series y capítulos (evita reproducir series equivocadas por trending/sidebar como en Abismo de pasión)\n• Sugerencia inteligente de búsqueda de capítulos completos en YouTube+ si no están en servidores web\n• Eliminación de insignia fija 1080p y visualización de la calidad y resolución real en Información del Video\n• Control parental reforzado (Zona +18 completamente oculta por defecto)\n• Soporte para Reproductor Externo (VLC o JustPlayer)",
+    "notes": "• Acceso rápido a Actualizaciones (icono 🚀 en la barra lateral y opción 0 en Ajustes)\n• Corrección estricta de series y capítulos (evita reproducir series equivocadas por trending/sidebar como en Abismo de pasión)\n• Sugerencia inteligente de búsqueda de capítulos completos en YouTube+ si no están en servidores web\n• Eliminación de insignia fija 1080p y visualización de la calidad y resolución real en Información del Video\n• Control parental reforzado (Zona +18 completamente oculta por defecto)\n• Soporte para Reproductor Externo (VLC o JustPlayer)",
     "mandatory": false
 }
