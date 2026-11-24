@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
+  "changelog": "• Contador automático de 5 segundos para reproducir el siguiente capítulo al finalizar\n• Botón interactivo de reproducción inmediata o cancelación manual\n• Carrusel Continuar viendo unificado y limpio para series",
   "versionName": "0.52.0",
-  "apkUrl": "https://raw.githubusercontent.com/leocanu/leo-tv/main/LeoTV-v0.52.0.apk",
-  "changelog": "• Contador automático de 5 segundos para reproducir el siguiente capítulo al finalizar: el show continúa solo a menos que el usuario lo cancele\n• Botones de 'Reproducir ahora' y 'Cancelar' para control total\n• Carrusel Continuar viendo unificado y limpio: en series se muestra solo la tarjeta principal de la serie sin desorden de capítulos incompletos",
-  "mandatory": false
+  "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.52.0.apk",
+  "mandatory": false,
+  "versionCode": 52
 }
