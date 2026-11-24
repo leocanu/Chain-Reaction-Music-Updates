@@ -1,7 +1,7 @@
 {
-  "changelog": "• Contador automático de 5 segundos para reproducir el siguiente capítulo al finalizar\n• Botón interactivo de reproducción inmediata o cancelación manual\n• Carrusel Continuar viendo unificado y limpio para series",
-  "versionName": "0.52.0",
-  "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.52.0.apk",
-  "mandatory": false,
-  "versionCode": 52
+  "versionCode": 53,
+  "versionName": "0.53.0",
+  "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.53.0.apk",
+  "changelog": "• Splash screen con video de 8 segundos y precarga completa en segundo plano del inicio (las imágenes y carruseles ya aparecen cargados)\n• Loader visual con spinner interactivo al conectar fuentes y buscar servidores de video\n• Corrección del actualizador OTA de GitHub con soporte para redirecciones y mirror directo",
+  "mandatory": false
 }
