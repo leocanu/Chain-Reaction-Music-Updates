@@ -1,13 +1,13 @@
 {
     "packageName": "ar.appvideo.player",
-    "versionCode": 49,
-    "versionName": "0.49.0",
+    "versionCode": 50,
+    "versionName": "0.50.0",
     "minSdk": 23,
-    "bytes": 6402823,
-    "sha256": "3173b0c2b73d790eda17209b7b68eb0dba5230ef883de13c7627b22dab28fb23",
-    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.49.0.apk",
-    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.49.0.apk",
-    "changelog": "• Acceso rápido a Actualizaciones (icono 🚀 en la barra lateral y opción 0 en Ajustes)\n• Corrección estricta de series y capítulos (evita reproducir series equivocadas por trending/sidebar como en Abismo de pasión)\n• Sugerencia inteligente de búsqueda de capítulos completos en YouTube+ si no están en servidores web\n• Eliminación de insignia fija 1080p y visualización de la calidad y resolución real en Información del Video\n• Control parental reforzado (Zona +18 completamente oculta por defecto)\n• Soporte para Reproductor Externo (VLC o JustPlayer)",
-    "notes": "• Acceso rápido a Actualizaciones (icono 🚀 en la barra lateral y opción 0 en Ajustes)\n• Corrección estricta de series y capítulos (evita reproducir series equivocadas por trending/sidebar como en Abismo de pasión)\n• Sugerencia inteligente de búsqueda de capítulos completos en YouTube+ si no están en servidores web\n• Eliminación de insignia fija 1080p y visualización de la calidad y resolución real en Información del Video\n• Control parental reforzado (Zona +18 completamente oculta por defecto)\n• Soporte para Reproductor Externo (VLC o JustPlayer)",
+    "bytes": 6405039,
+    "sha256": "6791f1bc63e184cf931a27f4993708b5af3f01051e3cfd76f50304d04c1d32f1",
+    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.50.0.apk",
+    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.50.0.apk",
+    "changelog": "• Solución a Continuar Viendo (Tornado y películas sin servidor ahora cargan su ficha completa de CineHax/Vimeos en vez de proveedor genérico)\n• Título y capítulo siempre visible sobre la barra de controles al pausar, adelantar o entrar a Ajustes\n• Adelanto rápido continuo manteniendo presionada la flecha derecha (o izquierda para retroceder)\n• Autocarga/sugerencia del siguiente capítulo al finalizar un episodio de serie\n• Marcado visual con tilde verde (✓ VISTO) en la lista de capítulos ya reproducidos",
+    "notes": "• Solución a Continuar Viendo (Tornado y películas sin servidor ahora cargan su ficha completa de CineHax/Vimeos en vez de proveedor genérico)\n• Título y capítulo siempre visible sobre la barra de controles al pausar, adelantar o entrar a Ajustes\n• Adelanto rápido continuo manteniendo presionada la flecha derecha (o izquierda para retroceder)\n• Autocarga/sugerencia del siguiente capítulo al finalizar un episodio de serie\n• Marcado visual con tilde verde (✓ VISTO) en la lista de capítulos ya reproducidos",
     "mandatory": false
 }
