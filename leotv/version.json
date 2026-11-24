@@ -1,13 +1,13 @@
 {
     "packageName": "ar.appvideo.player",
-    "versionCode": 50,
-    "versionName": "0.50.0",
+    "versionCode": 51,
+    "versionName": "0.51.0",
     "minSdk": 23,
-    "bytes": 6405039,
-    "sha256": "6791f1bc63e184cf931a27f4993708b5af3f01051e3cfd76f50304d04c1d32f1",
-    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.50.0.apk",
-    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.50.0.apk",
-    "changelog": "• Solución a Continuar Viendo (Tornado y películas sin servidor ahora cargan su ficha completa de CineHax/Vimeos en vez de proveedor genérico)\n• Título y capítulo siempre visible sobre la barra de controles al pausar, adelantar o entrar a Ajustes\n• Adelanto rápido continuo manteniendo presionada la flecha derecha (o izquierda para retroceder)\n• Autocarga/sugerencia del siguiente capítulo al finalizar un episodio de serie\n• Marcado visual con tilde verde (✓ VISTO) en la lista de capítulos ya reproducidos",
-    "notes": "• Solución a Continuar Viendo (Tornado y películas sin servidor ahora cargan su ficha completa de CineHax/Vimeos en vez de proveedor genérico)\n• Título y capítulo siempre visible sobre la barra de controles al pausar, adelantar o entrar a Ajustes\n• Adelanto rápido continuo manteniendo presionada la flecha derecha (o izquierda para retroceder)\n• Autocarga/sugerencia del siguiente capítulo al finalizar un episodio de serie\n• Marcado visual con tilde verde (✓ VISTO) en la lista de capítulos ya reproducidos",
+    "bytes": 6406390,
+    "sha256": "a4e060fb8f5adec09d87d167d6b4b0d53f4b9a95bf713f6197b85ff3350fa08c",
+    "url": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.51.0.apk",
+    "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.51.0.apk",
+    "changelog": "• Carrusel Continuar viendo unificado: en series se muestra solo el título principal de la serie sin duplicar capítulos sueltos\n• Botón interactivo flotante en pantalla (⏭ Siguiente Capítulo) en los últimos 80s o al 92% del episodio\n• Diálogo emergente inmediato con opción de reproducir el siguiente episodio al finalizar el video\n• Título de la serie y capítulo visible en la barra de controles y diálogos\n• Avance y retroceso rápido continuo manteniendo presionada la flecha\n• Registro visual de capítulos ya vistos con tilde verde (✓ VISTO)",
+    "notes": "• Carrusel Continuar viendo unificado: en series se muestra solo el título principal de la serie sin duplicar capítulos sueltos\n• Botón interactivo flotante en pantalla (⏭ Siguiente Capítulo) en los últimos 80s o al 92% del episodio\n• Diálogo emergente inmediato con opción de reproducir el siguiente episodio al finalizar el video\n• Título de la serie y capítulo visible en la barra de controles y diálogos\n• Avance y retroceso rápido continuo manteniendo presionada la flecha\n• Registro visual de capítulos ya vistos con tilde verde (✓ VISTO)",
     "mandatory": false
 }
