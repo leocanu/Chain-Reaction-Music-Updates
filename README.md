@@ -4,9 +4,12 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Versiones actuales
 
-- **Windows 0.1.43 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.43-rc1/ChainReactionMusic-Setup-0.1.43.exe).
+- **Windows 0.1.62 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.62-rc1/ChainReactionMusic-Setup-0.1.62.exe).
 - **Android celular Beta 1 / v27:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk).
 - **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
+
+### Windows 0.1.62
+Importación directa de playlists YouTube/YouTube Music con páginas completas, revisión antes de guardar, referencias sin descargas ni autoplay y reimportación sin duplicados. Conserva orden, repeticiones y fuentes originales; distingue canal de artista, informa entradas no disponibles y mantiene respaldo/restauración. Incluye interfaz Adaptable sin modo ambiente y corrección de arranque. Validación:673 Python (una omitida),217 JS y playlist real de406 entradas; reproducción original de posiciones1/204/406. Ejecutable final y268 archivos comprobados. Instalar sobre la carpeta habitual con la app cerrada y conservar un respaldo.
 
 ### Windows 0.1.43
 Recuperación de fuentes con presupuesto global de 45s y hasta 3 candidatos YouTube, tras JioSaavn. Verifica acceso al medio, artista y duración; acepta original/remaster sin aceptar versiones alternativas no solicitadas. Conserva álbum y selección manual. Reintentar renueva la fuente; registra pendientes y permite continuar la cola. Descargas Spotify verifican candidatos antes de enviar a spotDL. Validación:444 pruebas Python(443 correctas,1 omitida),135 Node e interfaz Edge. Tres de cuatro fuentes históricas verificadas; un audio completo legible y de duración correcta. Fire Woman sigue pendiente por discrepancia de duración. No agrega proveedores ni declara resuelta toda la cobertura. Candidata para pruebas, aún beta.
