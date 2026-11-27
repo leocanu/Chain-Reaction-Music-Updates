@@ -4,9 +4,12 @@ Repositorio público de distribución. No contiene el código privado del proyec
 
 ## Versiones actuales
 
-- **Windows 0.1.62 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.62-rc1/ChainReactionMusic-Setup-0.1.62.exe).
+- **Windows 0.1.63 (candidata):** [Descargar instalador](https://github.com/leocanu/Chain-Reaction-Music-Updates/releases/download/windows-v0.1.63-rc1/ChainReactionMusic-Setup-0.1.63.exe).
 - **Android celular Beta 1 / v27:** [Descargar APK](phone/ChainReactionMusic-Phone-0.1.0-beta1-v27.apk).
 - **Android TV r23 / v39:** [Descargar APK](tv/ChainReactionMusic-TV-0.1.0-demo1-r23-v39.apk).
+
+### Windows 0.1.63
+Conserva la lista completa de artistas en solicitudes e historial de descargas, reconoce etiquetas colaborativas con / cuando coinciden todos los créditos explícitos y comprueba archivos existentes antes de consultar una nueva fuente. El resumen de descarga múltiple informa cuántas seleccionadas no pudieron agregarse. Conserva importación directa de playlists de YouTube/YouTube Music, interfaz Adaptable sin modo ambiente y corrección de arranque. Validación: 678 Python (una omitida), 217 JS y 12 archivos reales en ESLOQUEHAY; ejecutable final y 268 archivos comprobados. Las otras 20 canciones de la lista de referencia siguen sin fuente verificada y no se declaran resueltas. Instalar sobre la carpeta habitual con la app cerrada y conservar un respaldo.
 
 ### Windows 0.1.62
 Importación directa de playlists YouTube/YouTube Music con páginas completas, revisión antes de guardar, referencias sin descargas ni autoplay y reimportación sin duplicados. Conserva orden, repeticiones y fuentes originales; distingue canal de artista, informa entradas no disponibles y mantiene respaldo/restauración. Incluye interfaz Adaptable sin modo ambiente y corrección de arranque. Validación:673 Python (una omitida),217 JS y playlist real de406 entradas; reproducción original de posiciones1/204/406. Ejecutable final y268 archivos comprobados. Instalar sobre la carpeta habitual con la app cerrada y conservar un respaldo.
