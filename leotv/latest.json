@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "0.58.0",
-  "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.58.0.apk",
-  "changelog": "• Nuevo visor cronológico de episodios (Timeline 16:9 con miniaturas, fecha, duración y barra de progreso roja)\n• Selector moderno de fuentes y servidores múltiples con badges de calidad (1080p, 720p) e idiomas (Latino, Sub)\n• Hero Banner panorámico inmersivo en Inicio con backdrop completo, degradados y dots indicadores\n• Correcciones de carga y estabilidad general",
+  "versionCode": 61,
+  "versionName": "0.59.0",
+  "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.59.0.apk",
+  "changelog": "• Sección 'Anime' renombrada limpiamente (sin categoría Shonen)\n• Carátulas de Anime y Cine Clásico 100% restauradas con CDN oficial TMDB\n• 5 listas IPTV verificadas integradas (Deportes VIP, LaLiga, Cine/Series Latina, Conmebol y Eventos)\n• Diagnóstico mejorado en comprobador de actualizaciones",
   "mandatory": false
 }
