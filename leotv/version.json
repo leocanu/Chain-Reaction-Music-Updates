@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "0.54.0",
-  "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.54.0.apk",
-  "changelog": "• Corrección de descargas de películas y series en Android TV (solución al error EPERM / Operation not permitted)\n• Soporte nativo para Scoped Storage y almacenamiento seguro de streams HLS y MP4\n• Splash screen de 8 segundos con precarga instantánea de Inicio y Loader interactivo al conectar servidores",
+  "versionCode": 59,
+  "versionName": "0.57.1",
+  "apkUrl": "https://raw.githubusercontent.com/leocanu/Chain-Reaction-Music-Updates/main/leotv/LeoTV-v0.57.1.apk",
+  "changelog": "• Reparación completa de portadas y carteles faltantes (auto-resolución Cinemeta/MetaHub y caché persistente)\n• Restauración del carrusel Continuar Viendo con pósters reales\n• Nueva categoría unificada Anime\n• Optimizaciones de estabilidad y memoria para Android TV",
   "mandatory": false
 }
